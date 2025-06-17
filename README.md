@@ -1,6 +1,6 @@
 # Awesome Vulnerable Smart Contract Scientific Research [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-
+## Contents
 
 ### 2025
 -
@@ -38,6 +38,6 @@
 
 ### Contributors
 
-[Thanks goes to these contributors](https://github.com/cybersecurity-dev/awesome-vulnerable-smartcontract-scientific-research/graphs/contributors)!
+[Thanks goes to these contributors](https://github.com/cybersecurity-dev/awesome-vulnerable-smart-contract-scientific-research/graphs/contributors)!
 
 [🔼 Back to top](#awesome-vulnerable-smart-contract-scientific-research-)
