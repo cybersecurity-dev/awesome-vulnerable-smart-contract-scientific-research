@@ -48,7 +48,6 @@
 * [awesome-smartcontract-datasets](https://github.com/cybersecurity-dev/awesome-smartcontract-datasets)
 * [awesome-smartcontract-feature-extractor](https://github.com/cybersecurity-dev/awesome-smartcontract-feature-extractor)
 * [awesome-vulnerability-research](https://github.com/cybersecurity-dev/awesome-vulnerability-research)
-* [awesome-vulnerable-smart-contract-scientific-research](https://github.com/cybersecurity-dev/awesome-vulnerable-smart-contract-scientific-research)
 
 ### Contributing
 
