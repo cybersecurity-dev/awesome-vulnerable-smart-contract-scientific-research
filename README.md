@@ -15,7 +15,7 @@
 
 ### 2023
 -
--
+- [VulHunter: Hunting Vulnerable Smart Contracts at EVM Bytecode-Level via Multiple Instance Learning](https://ieeexplore.ieee.org/abstract/document/10261219) - Date of Publication: 22 September 2023
 -
 
 ### 2022
