@@ -25,7 +25,7 @@
 
 ### 2021
 -
--
+- [Dynamic Vulnerability Detection on Smart Contracts Using Machine Learning](https://dl.acm.org/doi/abs/10.1145/3463274.3463348) - Published: 21 June 2021
 -
 
 ### 2020
