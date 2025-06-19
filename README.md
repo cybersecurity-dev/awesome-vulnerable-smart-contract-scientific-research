@@ -4,8 +4,9 @@
 
 ### 2025
 -
+- [Sóley: Automated detection of logic vulnerabilities in Ethereum smart contracts using large language models](https://www.sciencedirect.com/science/article/pii/S0164121225000743) - Available online 1 March 2025
 - [When ChatGPT Meets Smart Contract Vulnerability Detection: How Far Are We?](https://dl.acm.org/doi/full/10.1145/3702973) - Published: 28 April 2025
--
+- 
 
 ### 2024
 -
