@@ -10,7 +10,7 @@
 
 ### 2024
 -
--
+- [Vulnsense: efficient vulnerability detection in ethereum smart contracts by multimodal learning with graph neural network and language model](https://link.springer.com/article/10.1007/s10207-024-00965-2) - Published: 19 December 2024
 -
 
 ### 2023
