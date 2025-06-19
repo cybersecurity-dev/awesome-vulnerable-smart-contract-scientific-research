@@ -16,6 +16,7 @@
 ### 2023
 -
 - [Improvement and Optimization of Vulnerability Detection Methods for Ethernet Smart Contracts](https://ieeexplore.ieee.org/abstract/document/10192903) - Date of Publication: 25 July 2023
+- [SVScanner: Detecting smart contract vulnerabilities via deep semantic extraction](https://www.sciencedirect.com/science/article/pii/S2214212623000686) - Available online 21 April 2023
 - [VulHunter: Hunting Vulnerable Smart Contracts at EVM Bytecode-Level via Multiple Instance Learning](https://ieeexplore.ieee.org/abstract/document/10261219) - Date of Publication: 22 September 2023
 -
 
