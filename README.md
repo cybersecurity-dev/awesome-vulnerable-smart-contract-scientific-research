@@ -20,7 +20,7 @@
 
 ### 2022
 -
-- 
+- [SmartMixModel: Machine Learning-based Vulnerability Detection of Solidity Smart Contracts](https://ieeexplore.ieee.org/abstract/document/9881798) - Date Added to IEEE Xplore: 19 September 2022
 -
 
 ### 2021
