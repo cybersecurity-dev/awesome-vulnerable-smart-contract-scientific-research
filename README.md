@@ -9,9 +9,9 @@
 - 
 
 ### 2024
--
-- [Vulnsense: efficient vulnerability detection in ethereum smart contracts by multimodal learning with graph neural network and language model](https://link.springer.com/article/10.1007/s10207-024-00965-2) - Published: 19 December 2024
+- [LLM-SmartAudit: Advanced Smart Contract Vulnerability Detection](https://arxiv.org/abs/2410.09381) - Last Revised 4 Nov 2024 
 - [Smart Contract Vulnerability Detection Using Deep Learning Algorithms on EVM bytecode](https://ieeexplore.ieee.org/document/10577852) - Date Added to IEEE Xplore: 03 July 2024
+- [Vulnsense: efficient vulnerability detection in ethereum smart contracts by multimodal learning with graph neural network and language model](https://link.springer.com/article/10.1007/s10207-024-00965-2) - Published: 19 December 2024
 
 ### 2023
 - [Ethereum Smart Contract Vulnerability Detection Model Based on Triplet Loss and BiLSTM](https://www.mdpi.com/2079-9292/12/10/2327) - Published: 22 May 2023
