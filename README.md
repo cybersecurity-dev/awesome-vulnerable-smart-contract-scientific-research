@@ -21,12 +21,12 @@
 -
 
 ### 2022
--
+- [Smart Contract Vulnerability Detection Based on Dual Attention Graph Convolutional Network](https://link.springer.com/chapter/10.1007/978-3-030-92638-0_20) - First Online: 01 January 2022
 - [SmartMixModel: Machine Learning-based Vulnerability Detection of Solidity Smart Contracts](https://ieeexplore.ieee.org/abstract/document/9881798) - Date Added to IEEE Xplore: 19 September 2022
 -
 
 ### 2021
--
+- 
 - [Dynamic Vulnerability Detection on Smart Contracts Using Machine Learning](https://dl.acm.org/doi/abs/10.1145/3463274.3463348) - Published: 21 June 2021
 - [ESCORT: Ethereum Smart COntRacTs Vulnerability Detection using Deep Neural Network and Transfer Learning](https://arxiv.org/abs/2103.12607) - Submitted on 23 Mar 2021
 -
