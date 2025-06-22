@@ -3,7 +3,7 @@
 ## Contents
 
 ### 2025
--
+- [Enhancing Smart Contract Vulnerability Detection in DApps Leveraging Fine-Tuned LLM](https://arxiv.org/abs/2504.05006) - Submitted on 7 Apr 2025
 - [Sóley: Automated detection of logic vulnerabilities in Ethereum smart contracts using large language models](https://www.sciencedirect.com/science/article/pii/S0164121225000743) - Available online 1 March 2025
 - [When ChatGPT Meets Smart Contract Vulnerability Detection: How Far Are We?](https://dl.acm.org/doi/full/10.1145/3702973) - Published: 28 April 2025
 - 
