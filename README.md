@@ -1,6 +1,9 @@
 # Awesome [Vulnerable](https://youtube.com/playlist?list=PL9V4Zu3RroiVyfkzi0jlbyBE--AWZB7ki&si=SrGC6CR8CrY2o0h7) [Smart](https://en.wikipedia.org/wiki/Smart_contract) [Contract](https://csrc.nist.gov/glossary/term/smart_contract) [Scientific](https://scholar.google.com/scholar?q=%22vulnerable+smart+contracts%22&hl=en&as_sdt=0%2C5&as_vis=1&as_ylo=2020&as_yhi=) [Research](https://owasp.org/www-project-smart-contract-top-10/) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-## Contents
+## 📖 Contents
+- [My Other Awesome Lists](#my-other-awesome-lists)
+- [Contributing](#contributing)
+- [Contributors](#contributors)
 
 ### 2025
 - [Enhancing Smart Contract Vulnerability Detection in DApps Leveraging Fine-Tuned LLM](https://arxiv.org/abs/2504.05006) - Submitted on 7 Apr 2025
