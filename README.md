@@ -1,5 +1,8 @@
-# Awesome [Vulnerable](https://youtube.com/playlist?list=PL9V4Zu3RroiVyfkzi0jlbyBE--AWZB7ki&si=SrGC6CR8CrY2o0h7) [Smart](https://en.wikipedia.org/wiki/Smart_contract) [Contract](https://csrc.nist.gov/glossary/term/smart_contract) [Scientific](https://scholar.google.com/scholar?q=%22vulnerable+smart+contracts%22&hl=en&as_sdt=0%2C5&as_vis=1&as_ylo=2020&as_yhi=) [Research](https://owasp.org/www-project-smart-contract-top-10/) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/playlist?list=PL9V4Zu3RroiVyfkzi0jlbyBE--AWZB7ki&si=SrGC6CR8CrY2o0h7) [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/scholar?q=%22vulnerable+smart+contracts%22&hl=en&as_sdt=0%2C5&as_vis=1&as_ylo=2020&as_yhi=)
+# **`Awesome`** [Vulnerable](https://youtube.com/playlist?list=PL9V4Zu3RroiVyfkzi0jlbyBE--AWZB7ki&si=SrGC6CR8CrY2o0h7) [Smart](https://en.wikipedia.org/wiki/Smart_contract) [Contract](https://csrc.nist.gov/glossary/term/smart_contract) [Scientific](https://scholar.google.com/scholar?q=%22vulnerable+smart+contracts%22&hl=en&as_sdt=0%2C5&as_vis=1&as_ylo=2020&as_yhi=) [Research](https://owasp.org/www-project-smart-contract-top-10/) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
+
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/scholar?as_q=detection&as_epq=vulnerable+smart+contracts&as_oq=&as_eq=&as_occt=any&as_sauthors=&as_publication=&as_ylo=2025&as_yhi=&hl=en&as_sdt=0%2C5&as_vis=1)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/playlist?list=PL9V4Zu3RroiVyfkzi0jlbyBE--AWZB7ki&si=SrGC6CR8CrY2o0h7)
+
 <p align="center">
     <a href="https://github.com/cybersecurity-dev/"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/github.svg" alt="GitHub"></a>
     &nbsp;
