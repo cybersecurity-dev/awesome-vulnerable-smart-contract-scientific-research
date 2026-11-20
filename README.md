@@ -13,9 +13,25 @@
 </p>
 
 ## 📖 Contents
+- [2027](#2027) | [2026](#2026) | [2025](#2025)
+- [2024](#2024) | [2023](#2023) | [2022](#2022) | [2021](#2021) | [2020](#2020)
+- [Others](#old)
 - [My Other Awesome Lists](#my-other-awesome-lists)
 - [Contributing](#contributing)
 - [Contributors](#contributors)
+
+> [!NOTE]
+> [BibTeX citation: Click here.](./vscd.bib)
+
+### 2027
+-
+-
+-
+
+### 2026
+-
+-
+-
 
 ### 2025
 - [Enhancing Smart Contract Vulnerability Detection in DApps Leveraging Fine-Tuned LLM](https://arxiv.org/abs/2504.05006) - Submitted on 7 Apr 2025
@@ -52,6 +68,7 @@
 -
 
 ##
+
 ### Other Awesome Smart Contract
 - [Awesome Malicious Smart Contract](https://github.com/cybersecurity-dev/awesome-malicious-smart-contract)
 - [Awesome Smart Contract](https://github.com/cybersecurity-dev/awesome-smart-contract)
@@ -65,11 +82,9 @@
 You can access the my other awesome lists [here](https://cyberthreatdefence.com/my_awesome_lists)
 
 ### Contributing
-
 [Contributions of any kind welcome, just follow the guidelines](contributing.md)!
 
 ### Contributors
-
 [Thanks goes to these contributors](https://github.com/cybersecurity-dev/awesome-vulnerable-smart-contract-scientific-research/graphs/contributors)!
 
 [🔼 Back to top](#awesome-vulnerable-smart-contract-scientific-research-)
